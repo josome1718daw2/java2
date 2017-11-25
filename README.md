@@ -9,7 +9,10 @@
 # 1) Descargar la url, descomprimir y poner el archivo java en tu carpete donde trabajaras con el git
 # 
 # 
-# 5) git checkout master -> git status
+# 5)  git checkout master 
+#     git status
+#     git log
+#     la diferencia esta en que traballa a otra raiz y ademas en log te marca la raiz que estas trabajando
 # 
 # 
 # 6) No podemos ver porque estamos en la raiz "Master" por eso no podemos ver la ultima linia de codigo de java.
